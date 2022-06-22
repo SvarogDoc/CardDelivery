@@ -1,4 +1,5 @@
 # Домашнее задание к занятию «2.2. Selenide»
+[![Build status](https://ci.appveyor.com/api/projects/status/2n80kymir6l9x5un?svg=true)](https://ci.appveyor.com/project/SvarogDoc/carddelivery)
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
